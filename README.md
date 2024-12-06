@@ -18,10 +18,10 @@
 
 ## :triangular_flag_on_post: Django Features
 
-- django-click
-- environs[django]
-- psycopg[binary]
-- whitenoise
+- [django-click](https://click.palletsprojects.com/en/stable/)
+- [environs\[django\]](https://github.com/sloria/environs?tab=readme-ov-file#usage-with-django)
+- [psycopg\[binary\]](https://www.psycopg.org/psycopg3/)
+- [whitenoise](https://whitenoise.readthedocs.io/en/stable/)
 
 ## :shirt: Linting/auto-formatting
 
